@@ -85,7 +85,7 @@ const Transaction = async () => {
     {
       from: ownerAddress,
       to: senderAddress,
-      value: 0,
+      value: 10000000000,
       gas: "21000",
       gasPrice: "1100000000",
     },
